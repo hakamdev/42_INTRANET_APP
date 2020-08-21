@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">42 Intra</string>
+    <string name="hint_email">Email...</string>
+    <string name="hint_password">Password...</string>
+    <string name="btn_text_sign_in">Sign In</string>
+    <string name="btn_text_forgot_password">Forgot or change your password?</string>
+    <string name="btn_text_terms_conditions"><![CDATA[Read our terms & conditions]]></string>
+    <string name="content_desc_42_bg">42 Network background Image</string>
+    <string name="content_desc_42_logo">42 Network logo image</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
